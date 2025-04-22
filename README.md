@@ -25,4 +25,4 @@
 
 ## 5. İletişim
 
-Gizlilik politikamız hakkında sorularınız, talepleriniz veya endişeleriniz için destek sunucusuna ulaşabilirsiniz. Ekibimiz en kısa sürede size yardımcı olmak için hazır bulunmaktadır.
+- Gizlilik politikamız hakkında sorularınız, talepleriniz veya endişeleriniz için destek sunucusuna ulaşabilirsiniz. Ekibimiz en kısa sürede size yardımcı olmak için hazır bulunmaktadır.
